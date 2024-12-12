@@ -2,6 +2,7 @@
 
 ### Project Overview 
 This project analyzes stationery sales perfomance over the past 4 years so as to identity order trends,product preferences based on customers and get a clear understanding of the sales trajectory,supply chain productivity and gauge progress and insights for better decision making in a bid to optimize sales.
+
 The insights are then created into visuals on both Tableau and Excel, interactive slicers are used to filter and drill down the visuals using specific metrics as per the dataset.
 
 ### Data Sources
