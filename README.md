@@ -5,6 +5,11 @@ This project analyzes stationery sales perfomance over the past 4 years so as to
 
 The insights are then created into visuals on both Tableau and Excel, interactive slicers are used to filter and drill down the visuals using specific metrics as per the dataset.
 
+
+![ProductAnalysis Dashboard](https://github.com/user-attachments/assets/e9ce2971-674a-4a6c-9232-4db423f9882e)
+
+
+
 ### Data Sources
 The dataset contains 3 csv files with details on the company's orders taken,products sold and the account managers responsible for every transaction over the period.
 
